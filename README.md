@@ -112,7 +112,7 @@ El análisis de reducción de impureza de Gini en el bosque aleatorio demuestra 
 ### 3. Presentaciones de Sustentación (.pptx)
 * **Presentación Avance 1 (Actualizada):** [Proyecto_Avance1_JJJM_Actualizado.pptx](./Proyecto_Avance1_JJJM_Actualizado.pptx) *(Nota: Se conserva únicamente como referencia oficial la versión actualizada de la primera entrega; el archivo previo Proyecto_Avance1_JJJM.pptx permanece en la carpeta solo como respaldo histórico).*
 * **Presentación Avance 2 (Actualizada):** [Proyecto_Avance2_JJJM_Actualizado.pptx](./Proyecto_Avance2_JJJM_Actualizado.pptx)
-* **Presentación 3 (Sustentación Final):** *[Pendiente por anexar / En preparación: Proyecto_Avance3_JJJM_Final.pptx]*
+* **Presentación 3 (Sustentación Final):** [PREDICTIO_Presentacion_Final.pptx](./PREDICTIO_Presentacion_v2.pptx)
 
 ---
 
