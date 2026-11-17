@@ -99,7 +99,7 @@ El análisis de reducción de impureza de Gini en el bosque aleatorio demuestra 
 * **Repositorio Oficial en GitHub:** [https://github.com/JuanjoseJau/Machine-Learning-Proyecto](https://github.com/JuanjoseJau/Machine-Learning-Proyecto)
 * **Notebook Final Consolidado (Código Principal):** [Proyecto_Avance2_JJJM final.ipynb](./Proyecto_Avance2_JJJM%20final.ipynb)
 * **Dataset Completo en el Repositorio:** [games_march2025_full.csv](./games_march2025_full.csv)
-* **Video de Sustentación Final:** *[Enlace al Video - Pendiente de grabación y publicación]*
+* **Video de Sustentación Final:** [![Ver Video del proyecto](https://youtube.com)](https://www.youtube.com/watch?v=zPfqIb1OGws)
 
 ### 2. Notebooks de Código (.ipynb) por Entrega
 1. **Primera Entrega (Avance 1 — EDA Inicial):** [Proyecto_Avance1_JJJM.ipynb](./Proyecto_Avance1_JJJM.ipynb)
